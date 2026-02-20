@@ -1,27 +1,105 @@
 ![Zelara AI](https://github.com/Hackathon2023Cyprus/.github/assets/66517969/6d824cf2-716c-4b5e-8801-ee27582bb080)
 
-# Zelara AI 🌿: Your Comprehensive Green Tech Assistant
+# Zelara
 
-Welcome to Zelara AI 🌿, a cutting-edge web application designed to provide comprehensive solutions for green technology enthusiasts. Our mission is to empower users with the tools and insights needed to embrace sustainable practices and enhance their interaction with nature.
+**One app that adapts to how you live.** 🌱
 
-## Key Features
+Start simple. Unlock features as you progress. Improve your life. Support sustainability.
 
-- **Plant Identification and Care**: Utilizing advanced computer vision, Zelara AI 🌿 can identify plant species, detect diseases, and provide tailored care instructions. Simply upload an image of your plant, and receive expert advice to ensure its health and growth.
+---
 
-- **Environmental Monitoring**: Access real-time weather updates, air quality data, and soil quality analysis. Zelara AI 🌿 helps you stay informed about environmental conditions and their impact on your plants and surroundings.
+## 🌍 Our Vision
 
-- **Sustainable Practices**: Get practical tips on energy conservation, water-saving techniques, and waste reduction strategies. Zelara AI 🌿 is your go-to resource for living a more eco-friendly lifestyle.
+Traditional green initiatives feel disconnected—no sense of progress. We're changing that.
 
-- **Green Tech News and Trends**: Stay updated with the latest innovations in green technology. Explore new eco-friendly products, cutting-edge research, and sustainability trends that can help you make informed decisions.
+**Zelara** helps you organize your life (finances, productivity, home) while contributing to green causes. Like a skill tree for real personal growth.
 
-- **Interactive and Personalized Features**: Engage with interactive quizzes and learning modules to deepen your understanding of green tech. Receive personalized recommendations based on your preferences and activities.
+**Not for profit.** No cloud servers. Fully on-edge. Your data stays on your device.
 
-- **User-Friendly Interface**: Zelara AI 🌿 offers an intuitive and enjoyable user experience, making it accessible for everyone, from green tech novices to seasoned enthusiasts.
+As you benefit from the app, you support green initiatives—through optional donations, marketplace profits, or partnerships.
 
-## Join Us
+---
 
-Embrace the future of green technology with Zelara AI 🌿. Together, we can make a positive impact on our environment through innovative solutions and sustainable practices.
+## ✨ How It Works
 
-<br>
-Warm regards, <br>
-The Levi Dev Team 🌿
+### 1️⃣ Start with Basics
+- ♻️ **Recycling validation**: Use paper bags, verify with photos (processed on your device)
+- 💰 **Expense tracking**: Log spending, build financial awareness
+
+### 2️⃣ Earn Points & Unlock Features
+- Complete verified tasks → earn points
+- Points unlock advanced modules based on your lifestyle
+
+### 3️⃣ Choose Your Path
+
+**💼 Finance Module**
+Organize personal or business finances. Track expenses, prepare taxes, manage budgets.
+→ **Green impact**: Optional donation suggestions from excess funds
+
+**⚡ Productivity Module**
+Focus tools, calendar/email AI, task management.
+→ **Green impact**: Buy themed skins/accessories—all profits fund green initiatives
+
+**🏡 Homeowner Module**
+City apartment? Suburban house? Rural farm? Get personalized pathways to reduce your carbon footprint.
+→ **Green impact**: Research solar panels, insulation, transportation alternatives. Partner referrals fund green causes.
+
+### 4️⃣ Your Devices Work Together
+Heavy processing (image validation, complex calculations) runs on your most capable device:
+- 🖥️ **Desktop** (highest compute)
+- 📱 **Mobile** (camera, daily tasks)
+- 🌐 **Web** (lightweight access)
+
+Devices link together. No cloud needed.
+
+---
+
+## 🌿 Green Initiatives
+
+**We're not greenwashing.** Here's how it works:
+
+- **Finance users**: App suggests optional donations from excess funds (you control the amount)
+- **Productivity users**: Profits from themed skins/accessories go directly to green causes
+- **Homeowner users**: Partner referrals (solar installers, etc.) fund sustainability projects
+
+**100% transparent.** All transactions and donations publicly tracked.
+
+---
+
+## 🛠️ Technology
+
+- ✅ **Client-side**: Runs on your device, not cloud servers
+- ✅ **Cross-platform**: Desktop (Windows/Mac/Linux), Mobile (iOS/Android), Web
+- ✅ **Privacy-first**: Data stays on your device. Optional sync across your own devices only.
+- ✅ **Open source**: All code publicly available
+- ✅ **AI-coordinated**: Claude and AI assistants help develop under human oversight
+
+---
+
+## 📍 Current Status
+
+**Phase**: Foundation & Architecture Planning
+
+We're defining:
+- Technology stack
+- Device linking protocol
+- Skill tree mechanics
+- Build system design
+
+**No implementation yet.** All decisions made collaboratively with community input.
+
+---
+
+## 🤝 Join Us
+
+This is an **open-source, community-driven project**.
+
+- 💻 Developers: See [core repo](https://github.com/zelara-ai/core) for technical details
+- 🌱 Supporters: Follow our progress, share feedback, spread the word
+- 🌍 Partners: Interested in green initiative partnerships? Reach out.
+
+**Together, we can build technology that helps people improve their lives while making the planet greener.**
+
+---
+
+One app. Your lifestyle. Our planet. 🌍✨
