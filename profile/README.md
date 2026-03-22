@@ -1,4 +1,4 @@
-![Zelara AI](https://github.com/Hackathon2023Cyprus/.github/assets/66517969/6d824cf2-716c-4b5e-8801-ee27582bb080)
+<img width="2000" height="847" alt="zelara_banner" src="https://github.com/user-attachments/assets/2c957042-606d-45db-b135-61206860d3df" />
 
 # Zelara
 
